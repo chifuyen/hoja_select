@@ -1,4 +1,4 @@
-## Welcome to Hoja Taiwanese Food!
+## Welcome to Hoja Taiwanese Snacks!
 
 You can use the [editor on GitHub](https://github.com/chifuyen/hoja_select/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
