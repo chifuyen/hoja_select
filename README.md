@@ -1,2 +1,2 @@
 # hoja_select
-Hoja Taiwanese Food
+Hoja Taiwanese Snacks
